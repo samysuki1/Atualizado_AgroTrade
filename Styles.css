@@ -4,19 +4,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@900&display=swap');
 
 :root {
-    --cor-rosa: #F24F7A;
+    --cor-rosa: #ff5b03;
     --cor-amarelo: #F2C027;
-    --cor-azul-1: #0053CC;
+    --cor-azul-1: #7ae952;
     --cor-azul-2: #0228B9;
     --cor-azul-3: #083F73;
     --cor-azul-4: #598EBC;
     --cor-gray-8: #F2F2F7;
     --cor-textos: #1C1C1E;
-    --cor-header: #0E0016;
+    --cor-header: #27380e;
     --cor-gray:   #F0EEEE;
     --cor-gray1: #AEAEB2;
     --cor-branco: #FFFFFF;
-    --cor-azul-5: #12173B;
+    --cor-azul-5: #27380e;
     
     
 
@@ -147,7 +147,7 @@ html{
   justify-content: space-between;
   }
 .navbar {
-  background-color: #0e0016;
+  background-color: #27380e;
   width: 100%;
   display: flex;
   flex-direction: column;
